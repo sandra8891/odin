@@ -1,0 +1,14 @@
+.head{
+    font-size: 60px;
+    font-weight: 400;
+    margin: 90px;
+    line-height: 70px;
+
+}
+.row div{
+    margin:30px;
+    border-radius: 10px;
+}
+.colu img{
+    width: 80%;
+}
